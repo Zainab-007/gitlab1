@@ -4,9 +4,9 @@ on:
 jobs:
 echo steps:
 
- runs-on:ubuntu-latest
+ runs-on: ubuntu-latest
  steps:
  -name: first step
  run: echo "This the First step"
- -name:second step
+ -name: second step
  run: echo "This is the Second step"
