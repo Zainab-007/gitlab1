@@ -1,6 +1,6 @@
 name: Devops lab workflow
 on:
-workflow_dispatch:#allows manual trigger from github UI
+ workflow_dispatch: #allows manual trigger from github UI
 jobs:
 echo steps:
 
